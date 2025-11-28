@@ -65,6 +65,9 @@ body{
 .nav__links a:hover{
   background:#ccc;
 }
+.close-btn {
+  display: none;
+}
 
 /* HERO SECTION */
 .hero{
@@ -577,5 +580,6 @@ body{
     font-size: 20px;
   }
 }
+
 
 
